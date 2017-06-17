@@ -9,3 +9,5 @@ declare module 'redux-actions' {  declare var exports: any;  }
 declare module 'react-redux' {  declare var exports: any;  }
 declare module 'redux-thunk' {  declare var exports: any;  }
 declare module 'isomorphic-fetch' {  declare var exports: any;  }
+declare module 'react-router' {  declare var exports: any;  }
+declare module 'react-router-dom' {  declare var exports: any;  }

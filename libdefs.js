@@ -12,3 +12,5 @@ declare module 'isomorphic-fetch' {  declare var exports: any;  }
 declare module 'react-router' {  declare var exports: any;  }
 declare module 'react-router-dom' {  declare var exports: any;  }
 declare module 'react-helmet' {  declare var exports: any;  }
+declare module 'socket.io' {  declare var exports: any;  }
+declare module 'socket.io-client' {  declare var exports: any;  }

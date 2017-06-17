@@ -8,7 +8,7 @@ const title = 'Page Not Found'
 const NotFoundPage = () => (
   <div>
     <Helmet
-      title = {title}
+      title={title}
       meta={[
         { name: 'description', content: 'A page to say hello' },
         { property: 'og:title', content: title },

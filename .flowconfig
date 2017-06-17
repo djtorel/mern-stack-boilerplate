@@ -2,8 +2,8 @@
 suppress_comment= \\(.\\|\n\\)*\\flow-disable-next-line
 
 [ignore]
-<PROJECT_ROOT>/node_modules/.*
-<PROJECT_ROOT>/libdefs.js
+.*node_modules/eslint-plugin-jsx-a11y/.*
+.*/node_modules/jss/.*
 [include]
+
 [libs]
-./libdefs.js

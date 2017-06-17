@@ -3,3 +3,9 @@ declare module 'compression' {  declare var exports: any;  }
 declare module 'babel-polyfill' {  declare var exports: any;  }
 declare module 'react-hot-loader' {  declare var exports: any;  }
 declare module 'webpack' {  declare var exports: any;  }
+declare module 'immutable' {  declare var exports: any;  }
+declare module 'redux' {  declare var exports: any;  }
+declare module 'redux-actions' {  declare var exports: any;  }
+declare module 'react-redux' {  declare var exports: any;  }
+declare module 'redux-thunk' {  declare var exports: any;  }
+declare module 'isomorphic-fetch' {  declare var exports: any;  }
